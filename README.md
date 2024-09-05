@@ -1,1 +1,1 @@
-# This is a ML project in python used to track body movements in a video
+# This is an ML project in python used to track body movements in a video using Mediapipe Library
