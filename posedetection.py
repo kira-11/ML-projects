@@ -7,7 +7,7 @@ mp_draw = mp.solutions.drawing_utils
 mp_holistics = mp.solutions.holistic
 pose = mp_pose.Pose(model_complexity=0)
 
-cap = cv2.VideoCapture("Video5.mp4")
+cap = cv2.VideoCapture("Video.mp4")#use your own file for testing pouposes
 
 
 while True:
